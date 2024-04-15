@@ -1,5 +1,5 @@
 {
-  "name": "@saltcorn/metronic-theme",
+  "name": "@j2l/metronic-theme",
   "version": "0.2.13",
   "description": "Metronic theme for Saltcorn",
   "main": "index.js",
